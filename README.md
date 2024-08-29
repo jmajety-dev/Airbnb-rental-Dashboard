@@ -10,7 +10,7 @@ The **Airbnb 2016 Rental Dashboard** provides insights into rental prices, avail
 
 You can interact with the dashboard directly below or on Tableau Public:
 
-[![Airbnb 2016 Rental Dashboard](https://public.tableau.com/views/Airbnb2016rentaldashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Airbnb 2016 Rental Dashboard](https://public.tableau.com/static/images/Ai/Airbnb2016rentaldashboard/Dashboard1/1.png)](https://public.tableau.com/views/Airbnb2016rentaldashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 To view the dashboard in full screen or interact with it more deeply, [click here](https://public.tableau.com/views/Airbnb2016rentaldashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
